@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\OneDrive\\AIO Python"
+		}
+	],
+	"settings": {"python.condaPath": "C:\\Users\\Sculpture\\anaconda3\\Scripts\\conda-script.py",
+		"python.defaultInterpreterPath": "C:\\Users\\Sculpture\\anaconda3\\python.exe",
+		"python.pythonPath": "C:\\Users\\Sculpture\\anaconda3\\python.exe",
+		"python.terminal.activateEnvironment": true,
+		"workbench.iconTheme": "material-icon-theme",
+		"python.linting.pylintEnabled": true,
+		"python.linting.pycodestyleEnabled": true
+	}
+}
